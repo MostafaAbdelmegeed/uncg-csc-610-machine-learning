@@ -1,0 +1,9 @@
+# Python Standard Library used, no external packages required.
+# Python version: 3.11
+opencv-python-headless
+pandas
+seaborn
+matplotlib
+numpy
+scikit-learn
+tarfile
